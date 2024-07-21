@@ -7,5 +7,7 @@ It is a fitness app built using react. The app focuses on timed challenges where
 <br><br>
 # Using it <br>
 # Note : You can enter ANY VALID email id to log in and the password is "hello".
-$ cd fitness
-$ npm start 
+$ cd fitness<br>
+$ npm start <br>
+![login](https://github.com/user-attachments/assets/1d78fd7a-513a-4cd4-9987-410885dc94ba)<br>
+![page](https://github.com/user-attachments/assets/e54086da-cef2-43af-97f9-75dc3a4c7fca)
