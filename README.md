@@ -10,3 +10,4 @@ It is a fitness app built using react. The app focuses on timed challenges where
 $ cd fitness<br>
 $ npm start <br><br>
 ![login](https://github.com/user-attachments/assets/1d78fd7a-513a-4cd4-9987-410885dc94ba)<br><br>
+![page](https://github.com/user-attachments/assets/462cbca2-d822-49c1-b93a-02e075c764f9)
