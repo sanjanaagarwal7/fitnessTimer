@@ -1,0 +1,21 @@
+dialog{
+    position:absolute;
+    left:37%;
+    top:42%;
+    border:1 px solid rgba(0, 0, 0, 0.071);
+    width:29vw;
+    height:40vh;
+    text-align:center;
+}
+dialog::backdrop{
+    background-color: rgba(0, 0, 0, 0.443);
+}
+dialog p{
+    position:relative;
+    margin-top:10%;
+}
+dialog button{
+    position:relative;
+    margin-top:10%;
+    margin-right:40%
+}

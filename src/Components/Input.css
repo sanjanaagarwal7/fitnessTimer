@@ -1,0 +1,25 @@
+form{
+    padding-top:8vh;
+    padding-left:8vw;
+}
+form .enter{
+    height :15vh;
+}
+form input{
+    border:0;
+    width:20vw;
+    border-bottom:1px solid rgba(0, 0, 0, 0.381);
+}
+form button{
+    width:7vw;
+    height:5vh;
+    text-transform:uppercase;
+    background-color:rgba(0, 0, 0, 0);
+    border: 1px solid rgba(0, 0, 0, 0.416); 
+    
+}
+form p{
+    color:rgba(255, 0, 0, 0.541);
+    margin-top:1vh;
+    
+}

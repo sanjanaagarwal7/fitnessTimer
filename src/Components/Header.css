@@ -1,0 +1,42 @@
+*{
+    padding:0;
+    margin:0
+}
+
+
+#header{
+    height:50vh;
+    background-color:rgba(239, 20, 20, 0.267);
+}
+#heading{
+    height:150px;
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+}
+#heading h1{
+    margin-top:45px;
+    font-size:10vh;
+    color:white;
+}
+#header .left-right{
+    height:50vh;
+    width:50vw;
+}
+#header section #left{
+     padding-left:40px;
+}
+
+#img-form{
+    display:flex;
+}
+#left #form{
+    width:40vw;
+    height:48vh;
+    border:1px solid rgba(0, 0, 0, 0.358);
+    position:absolute;
+    right:44%;
+    top:40%;
+    background-color:white;
+    
+}

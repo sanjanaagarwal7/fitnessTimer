@@ -1,0 +1,28 @@
+#main{
+    width:98.5vw;
+    height:20vh;
+    background-color: rgba(255, 192, 203, 0.361);
+    position : relative;
+    margin-top:4vh;
+    text-align:center;
+    padding-top:5vh;
+}
+#main #name{
+    width:15vw;
+    height:2.8vh;
+    margin:1vw;
+    background-color:rgba(0, 0, 0, 0);
+    border:0;
+    border-bottom:1px solid rgba(0, 0, 0, 0.297);
+}
+#main #welcome{
+    margin-bottom:2vh;
+}
+#main #setname{
+    border:0;
+    background-color:rgba(255, 192, 203, 0);;
+}
+#main #setname:hover{
+    border:0;
+    color:rgba(0, 0, 255, 0.584);
+}
